@@ -1,2 +1,2 @@
 # ben10
-created an animation using html and css of ben10's omnitrix discharging
+created an animation of discharging ben's omnitrix using html and css.
